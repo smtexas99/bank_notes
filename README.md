@@ -5,6 +5,6 @@ Machine Learning models on Bank Notes Data: UCI
 
 Identifying Forged Bank Notes using:
 
-    Desicion Trees
-    Logistic Regression
-    Cluster Analysis
+   1. Desicion Trees
+   2. Logistic Regression
+   3. Cluster Analysis
